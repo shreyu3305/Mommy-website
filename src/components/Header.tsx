@@ -18,7 +18,7 @@ const Header = () => {
         <div className="flex justify-between items-center h-16">
           <div className="flex items-center space-x-2">
             <BookOpen className="h-8 w-8 text-primary" />
-            <span className="text-xl font-bold text-gray-900">Sonu Arora Love Rajesh/ Sumeshreya</span>
+            <span className="text-xl font-bold text-gray-900">Sonu Arora Tuition</span>
           </div>
 
           {/* Desktop Navigation */}
